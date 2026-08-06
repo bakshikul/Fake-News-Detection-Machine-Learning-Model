@@ -45,7 +45,7 @@ Fake-News-Detection/
 
 ## 📊 Dataset
 
-> **Current Dataset:** 🇺🇸 **US News Dataset**
+> **Current Dataset:** used **US News Dataset**
 
 This project is currently trained using a **US news dataset** containing authentic and fake news articles from American news sources.
 
@@ -84,7 +84,7 @@ The input text goes through several preprocessing steps:
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
+https://github.com/bakshikul/Fake-News-Detection-Machine-Learning-Model.git
 ```
 
 Move into the project folder
