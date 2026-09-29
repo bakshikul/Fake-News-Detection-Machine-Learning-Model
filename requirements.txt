@@ -1,0 +1,8 @@
+# Some basic requirements for the model 
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+joblib
+streamlit
